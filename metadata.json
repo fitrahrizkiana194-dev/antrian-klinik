@@ -1,0 +1,6 @@
+{
+  "name": "Klinik Medika - Sistem Antrian Pasien",
+  "description": "Sistem antrian klinik terpadu dengan Layar Monitor TV, Kiosk Cetak Karcis Mandiri, Panel Pemanggil Dokter & Loket, serta Panggilan Suara Berbahasa Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
